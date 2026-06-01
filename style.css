@@ -1,1 +1,8 @@
+/* Give the header a blue background and white text */
+header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
 
